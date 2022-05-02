@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navlink{
+    align-items: left;
+   
+}
+.myk{
+    position: relative;
+    top: 30px;
+    color: azure;
+    font-size: 30px;
+}
+.mike{
+    position: relative;
+    left: 950px;
+    text-decoration: none;
+    margin: 8px;
+    color: aliceblue;
+}
+.game{
+    background: url(images.jpg);
+    background-blend-mode: darken;
+    background-size: cover;
+}
+.pad{
+    color: rgb(233, 240, 240);
+    font-size: 30px;
+}
+.indomie{
+    color: aliceblue;
+    
+}
+.hek{
+    color: bisque;
+    font-size: 35px;
+}
+.true{
+    color: rgb(167, 222, 231);
+}
+.graduate{
+    align-content: right;
+    left: 28%;
+}
